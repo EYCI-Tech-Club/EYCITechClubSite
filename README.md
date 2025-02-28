@@ -1,2 +1,2 @@
-# EYCITechClubSite
-A website for the EYCI Tech Club
+# Hello
+This is a website for the EYCI Tech Club
